@@ -5,7 +5,8 @@
 const Carlos = {
     code: [JavaScript, Python, HTML, CSS, MySQL, Java],
     tools: [Node, React, REST API, Git, GitHub],
-    languages: [Portuguese, English, German],
+    languages: [Portuguese, English],
+    learning: "German",
     located_in: "Brazil",
     job: "Software Developer intern",
     musical_instruments: [Guitar, Drums],
