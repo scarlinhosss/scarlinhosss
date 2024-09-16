@@ -1,10 +1,13 @@
 <h1 align="center">Hi there! My name is Carlos</h1>
 <b>About me</b>
+
+``` javascript
 const Carlos = {
     code: [JavaScript, Python, HTML, CSS, MySQL, Java],
     tools: [Node, React, REST API],
     languages: [Portuguese, English, German]
 }
+```
 
 ## GitHub Stats
 
