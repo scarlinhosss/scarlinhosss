@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! My name is Carlos</h1>
 <b>About me</b>
-<ul>
-    <li>I love software development</li>
-    <li>Learning German</li>
-    <li>My favorite hobby is play the guitar</li>
-</ul>
+const Carlos = {
+    code: [JavaScript, Python, HTML, CSS, MySQL, Java],
+    tools: [Node, React, REST API],
+    languages: [Portuguese, English, German]
+}
 
 ## GitHub Stats
 
