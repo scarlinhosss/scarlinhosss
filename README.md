@@ -16,7 +16,7 @@ const Carlos = {
 
 ## GitHub Stats
 
-![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=scarlinhosss&show_icons=true&theme=dracula) 
+<a href="https://github.com/scarlinhosss/github-readme-stats"><img alt="scarlinhosss's Top Languages" src="https://scarlinhosss-github-readme-stats.vercel.app/api/top-langs/?username=scarlinhosss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scarlinhosss&theme=dracula)](https://git.io/streak-stats) 
 
 <div style="display: inline_block"><br>
