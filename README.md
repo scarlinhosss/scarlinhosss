@@ -1,6 +1,12 @@
 <h1 align="center">Hi there! My name is Carlos</h1>
+<b>About me</b>
+<ul>
+    <li>I love software development</li>
+    <li>Learning German</li>
+    <li>My favorite hobby is play the guitar</li>
+</ul>
 
-## Github Stats
+## GitHub Stats
 
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=scarlinhosss&show_icons=true&theme=dracula) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scarlinhosss&theme=dracula)](https://git.io/streak-stats) 
