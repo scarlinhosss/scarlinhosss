@@ -17,7 +17,7 @@ const Carlos = {
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarlinhosss&layout=compact&theme=dracula&hide=TeX,HTML)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=scarlinhosss)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=scarlinhosss&theme=dracula&card_width=500&card_height=135)](https://git.io/streak-stats)
 
 <div style="display: inline_block"><br>
