@@ -3,7 +3,7 @@
 
 ``` javascript
 const Carlos = {
-    code: [JavaScript, Python, HTML, CSS, MySQL, Java],
+    code: [JavaScript, TypeScript, Python, HTML, CSS, MySQL, Java],
     tools: [Node, React, REST API, Git, GitHub],
     languages: [Portuguese, English],
     learning: "German",
