@@ -3,7 +3,7 @@
 
 ``` javascript
 const Carlos = {
-    code: [JavaScript, TypeScript, Python, HTML, CSS, MySQL, Java],
+    code: [JavaScript, TypeScript, React,  Python, HTML, CSS, MySQL, Java],
     tools: [Node, React, REST API, Git, GitHub],
     languages: [Portuguese, English],
     learning: "German",
@@ -11,7 +11,7 @@ const Carlos = {
     job: "Software Developer intern",
     musical_instruments: [Guitar, Drums],
     formation: "Associate Degree in system development",
-    os: [Linux, IOS]
+    os: [Linux, Android]
 }
 ```
 
