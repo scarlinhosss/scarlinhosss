@@ -17,7 +17,7 @@ const Carlos = {
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarlinhosss&layout=compact&theme=dracula&hide=TeX,HTML)
-[![GitHub Streak](https://streak-stats.demolab.com?user=scarlinhosss&theme=dracula&card_width=500&card_height=135)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=scarlinhosss&theme=dracula&card_width=500&card_height=135" alt="GitHub Streak" /></a>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="bill-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
