@@ -16,7 +16,7 @@ const Carlos = {
 ```
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmatielli&layout=compact&theme=dracula&hide=TeX,HTML)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-asantos&layout=compact&theme=dracula&hide=TeX,HTML)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="bill-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
